@@ -1,0 +1,47 @@
+INTRODUCTJON
+
+His character seems to have been most simple, pure, and
+
+loveable ; and his poetic fame was well established even before
+his death.
+
+13
+
+Note on tlte M'elre.
+
+The Aeneid is written in the Hexameter verse, which is the
+oldest known European metre and was probably used by the
+Greeks as much as a thousand years before Christ. It is the
+metre of Homer and the early Greek Epics 3 and was imitated
+first in Latin by the Roman poet Ennius, who wrote his
+Annales, a poem on the History of Rome, about the year
+180 B.C.‚ more than a century before the birth of Vergil.
+
+The metrical system is very simple, and can be explained in
+a few words. The line consists of six feet, as the name implies,
+and every foot must be either a dactyl (one long syllable fol-
+lowed by two shorts) or a spondee (two long syllables). The
+only exceptions to this rule are the following:
+
+(1) The fifth foot must be a dactyl. (There are a very few
+instances of what is called a spondaic line, i.e. a line where both
+fifth and sixth feet are spondees3 but out of every thousand
+lines in the Aeneid, not more than one such line can be found.)
+
+(2) The last foot must be either a spondee (two longs) or a
+trochee (long followed by short). (The only exception is the
+very rare use of the overhanging syllable, called hypermeter,
+which is explained below.)
+
+Rule of E lz'sz’on.
+
+When a word ends with a vowel, or syllable ending in m,
+and the next word begins with a vowel, or vowel preceded by lz,
+the last syllable of the first word is elided or cut off before the
+second word. Thus in line 10 of this book we read ε
+
+Tum sic adfatur regem, atque ita turbidus infit,
+which must be scanned as if it were written
+
+Tum sic adfatur reg' atqu' ita turbidus infit.
+
